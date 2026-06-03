@@ -1,0 +1,11 @@
+present-80 avalanche test
+rounds: 5
+blocks: 200
+samples: 12800
+
+mean: 30.00 / 64
+ideal: 32.00 / 64
+deviation: 1.999
+std dev: 4.720
+min: 7
+max: 47

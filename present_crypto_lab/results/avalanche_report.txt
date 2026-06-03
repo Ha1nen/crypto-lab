@@ -1,0 +1,8 @@
+present-80 avalanche test
+blocks: 200
+samples: 12800
+
+mean: 32.05 / 64
+ideal: 32.00 / 64
+deviation: 0.051
+std dev: 3.978

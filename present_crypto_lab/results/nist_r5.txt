@@ -1,0 +1,15 @@
+present-80 nist statistical tests
+rounds: 5
+blocks: 50000
+bytes: 400000
+
+score: 8/8
+
+frequency: PASS
+block_frequency: PASS
+runs: PASS
+longest_run: PASS
+spectral: PASS
+serial: PASS
+entropy: PASS
+chi_square: PASS

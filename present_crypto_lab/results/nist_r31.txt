@@ -1,0 +1,8 @@
+present-80 nist statistical tests
+rounds: 31
+blocks: 50000
+bytes: 400000
+
+score: 3/10
+
+verdict: broken
